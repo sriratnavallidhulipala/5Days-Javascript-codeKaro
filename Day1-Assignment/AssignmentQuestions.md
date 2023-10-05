@@ -2,9 +2,6 @@ How to Javascript : Assignment 1
 
 Complete the following assignments. All the outputs should be printed in console only
 
-A whatsApp group will be shared to submit your assignments
-
-
 Assignment 1: Array Operations
 Objective: Practice adding, removing, and updating values in arrays.
 
