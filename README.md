@@ -1,5 +1,3 @@
-# Javascript
-RoadMap for frontend development
 ## DAY-1 Assignment
 ## ArraysOutput
 ![ArraysOutPut](/Day1-Assignment/screenshort/ArrayOperationOutput.jpg)
