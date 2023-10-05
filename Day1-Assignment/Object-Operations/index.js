@@ -13,16 +13,16 @@ person = {
   age: 30,
   city: "New York",
 };
-console.log("Add the following properties to the person object=", person);
+console.log("Add=", person);
 
 // 3. Remove the "age" property from the "person" object.
 delete person.age;
-console.log("Remove the age property f=", person);
+console.log("Remove the age=", person);
 // 4. Add a new property called "job" with the value "Engineer" to the "person" object.
 person.job = "Engineer";
-console.log("Add a new property called job with the value Engineer=", person);
+console.log("Add a new property to person object=", person);
 // 5. Update the "city" property of the "person" object to "San Francisco".
 person.city = "San Francisco";
-console.log("Update the city=", person);
+console.log("Update the cityName=", person);
 // 6. Print the final "person" object after performing the above operations.
-console.log("final output", person);
+console.log("final output=", person);

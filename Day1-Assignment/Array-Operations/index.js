@@ -3,7 +3,7 @@
 
 // 1. Create an empty array called "fruits".
 let fruits = [];
-console.log("creat an empty array", fruits);
+console.log("creat an empty array=", fruits);
 
 // 2. Add the following fruits to the "fruits" array: "apple", "banana", "orange".
 fruits.push("apple", "banana", "orange");
